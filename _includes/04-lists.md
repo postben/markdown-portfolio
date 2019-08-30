@@ -1,2 +1,2 @@
 - [ ] Whiskers on kitten
-- [ ] Brown paper packages
+- [ ] Brown paper packages 
